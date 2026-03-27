@@ -1,0 +1,18 @@
+Hemawarshini Mahendran
+Aspiring AI & ML Developer
+
+Location: Tamil Nadu, India
+Education: B.E. CSE – Artificial Intelligence & Machine Learning
+College: K.S. Rangasamy College of Technology
+Current Year: 2nd Year (2024–2028)
+CGPA: 8.5
+
+Links:
+GitHub: https://github.com/Hemamahe07
+LinkedIn: https://www.linkedin.com/in/hemawarshini-m-b41a0b377
+
+Projects:
+- Pranava Health AI
+- Gesture-Controlled Racing Game
+- CashClip – Smart Expense Tracker
+- English Buddy – AI Speaking Assistant
